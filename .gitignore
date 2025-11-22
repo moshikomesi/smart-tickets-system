@@ -1,0 +1,13 @@
+# .NET
+**/bin/
+**/obj/
+**/*.user
+**/*.db
+
+# Vite / React
+**/node_modules/
+**/dist/
+
+# Env files
+*.env
+*/.env
